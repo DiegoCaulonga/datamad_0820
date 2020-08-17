@@ -10,3 +10,6 @@
 ## nothing to commit, working tree clean
 
 - `git push <remote> <branch>`
+
+- `git checkout`
+- `git checkout -b <branch_name>`
