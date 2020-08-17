@@ -29,7 +29,8 @@ Es una carpeta "controlada" por git, que gestionará las versiones y los cambios
 
 - `git clone <url>` : Crea una copia local de un repositório existente remoto
 
-# Gold RULE:
-Queremos siempre el siguiente output al hacer `git status`
+# Gold RULES:
+Queremos siempre el siguiente output al hacer `git status`:
 ## nothing to commit, working tree clean
-Hacemos commits y push frecuentes para asegurar nuestro codigo.
+
+## Hacemos commits y push frecuentes para asegurar nuestro codigo.
